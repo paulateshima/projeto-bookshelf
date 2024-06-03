@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --cor-fundo-botao-preto: #000;
+    --cor-fundo-botao-azul: #43ABF6;
+}
+
+header {
+    padding: 2rem 0;
+    border-bottom: 1px solid #030308;
+    text-align: center;
+    font-size: 1.125rem;
+}
+
+h1 {
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.feature, .catalog, .cta {
+    padding: 2rem;
+    text-align: center;
+    font-size: 1.125rem;
+}
+
+.botao {
+    background-color: var(--cor-fundo-botao-preto);
+    color: #fff;
+    padding: 1rem 1.5rem; /* valor menor na vertical e valor maior na horizontal para ficar uma boa aparência */
+    border-radius: 9999px; /* máximo de borda arredondada */
+    display: block; /* para ficar embaixo */
+    width: fit-content; /* para o texto se encaixar adequadamente na largura */
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 2rem auto; /* auto = para ficar exatamente no meio */
+}
+
+/* para pegar todos os itens do ul */
+.genres > li { 
+    display: inline-block;
+    margin-top: 2rem;
+}
+
+/* dentro da classe genres, irá aplicar nos li vizinhos ou anteriores */
+/* para dar espaço entre os li */
+.genres > li + li { 
+    margin-left: 1rem;
+    margin-top: 1rem; /* para que haja espaço no topo quando diminui a largura da tela, e não ficar juntos */
+}
+
+/* genre > a -> para aplicar no link a e não no li */
+.genre > a, .see-more > a {
+    background-color: var(--cor-fundo-botao-azul);
+    border-radius: 9999px;
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    display: inline-block; /* para poder aplicar a propriedade margin-top: 1rem */
+}
+
+.see-more > a {
+    background-color: var(--cor-fundo-botao-preto);
+    text-transform: uppercase;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+}
