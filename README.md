@@ -6,8 +6,8 @@ Projeto desenvolvido no curso da Formação da Platafroma OneBitCode, apresentad
 
 ## Técnicas e Tecnologias Sendo Utilizadas: 
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 
 ## Status do Projeto:
 
