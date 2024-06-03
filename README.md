@@ -1,4 +1,4 @@
-# Projeto Bookshelf
+<h1 align="center">Projeto Bookshelf</h1>
 
 ![Captura de Tela 2024-06-03 às 11 49 43](https://github.com/paulateshima/projeto-bookshelf/assets/170154538/233e0ca9-0425-48bd-8564-62b06c4fd31b)
 
