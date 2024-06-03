@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Bookshelf</h1>
+# Projeto Bookshelf
 
 <p align="center">Projeto desenvolvido no curso da Formação da Platafroma OneBitCode, apresentado por Isaac Pontes.</p>
 
@@ -25,5 +25,5 @@ Este Projeto está sob a licença MIT.
 
 ## Acesso ao Projeto:
 
-Você pode acessar este Projeto 👉 [aqui](https://alura-play-murex.vercel.app/)
+Você pode acessar este Projeto 👉 [aqui](https://projeto-bookshelf.vercel.app/)
 
