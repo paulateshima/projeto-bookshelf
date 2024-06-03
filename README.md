@@ -1,6 +1,8 @@
 # Projeto Bookshelf
 
-<p align="center">Projeto desenvolvido no curso da Formação da Platafroma OneBitCode, apresentado por Isaac Pontes.</p>
+![Captura de Tela 2024-06-03 às 11 49 43](https://github.com/paulateshima/projeto-bookshelf/assets/170154538/233e0ca9-0425-48bd-8564-62b06c4fd31b)
+
+Projeto desenvolvido no curso da Formação da Platafroma OneBitCode, apresentado por Isaac Pontes.
 
 ## Técnicas e Tecnologias Sendo Utilizadas: 
 
